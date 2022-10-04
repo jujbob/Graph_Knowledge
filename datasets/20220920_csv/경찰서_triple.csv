@@ -1,0 +1,581 @@
+부산중부경찰서,is_a,koad:police_station
+창선치안센터,is_a,koad:police_station
+대청파출소,is_a,koad:police_station
+남포지구대,is_a,koad:police_station
+중앙119안전센터,is_a,koad:police_station
+영주파출소,is_a,koad:police_station
+부산서부경찰서,is_a,koad:police_station
+송도지구대,is_a,koad:police_station
+남항해양파출소,is_a,koad:police_station
+아미파출소,is_a,koad:police_station
+구덕지구대,is_a,koad:police_station
+부산동부경찰서,is_a,koad:police_station
+수성지구대,is_a,koad:police_station
+자성대파출소,is_a,koad:police_station
+부산영도경찰서,is_a,koad:police_station
+동삼2치안센터,is_a,koad:police_station
+신선치안센터,is_a,koad:police_station
+영선2치안센터,is_a,koad:police_station
+영선지구대,is_a,koad:police_station
+봉래치안센터,is_a,koad:police_station
+부산진경찰서,is_a,koad:police_station
+범천1파출소,is_a,koad:police_station
+서면지구대,is_a,koad:police_station
+개금1치안센터,is_a,koad:police_station
+당감1치안센터,is_a,koad:police_station
+부암3치안센터,is_a,koad:police_station
+연지치안센터,is_a,koad:police_station
+성지지구대,is_a,koad:police_station
+부산동래경찰서,is_a,koad:police_station
+충렬지구대,is_a,koad:police_station
+안락2치안센터,is_a,koad:police_station
+명장2동치안센터,is_a,koad:police_station
+내성지구대,is_a,koad:police_station
+낙민파출소,is_a,koad:police_station
+사직지구대,is_a,koad:police_station
+사직1치안센터,is_a,koad:police_station
+온천3파출소,is_a,koad:police_station
+온천지구대,is_a,koad:police_station
+부산남부경찰서,is_a,koad:police_station
+부산지방경찰청제1기동대,is_a,koad:police_station
+우암파출소,is_a,koad:police_station
+문현지구대,is_a,koad:police_station
+대연치안센터,is_a,koad:police_station
+부산북부경찰서,is_a,koad:police_station
+만덕지구대,is_a,koad:police_station
+덕천지구대,is_a,koad:police_station
+해운대경찰서,is_a,koad:police_station
+송정파출소,is_a,koad:police_station
+좌3치안센터,is_a,koad:police_station
+반여3치안센터,is_a,koad:police_station
+반여23파출소,is_a,koad:police_station
+부산지방경찰청경찰특공대,is_a,koad:police_station
+반송파출소,is_a,koad:police_station
+사하경찰서,is_a,koad:police_station
+다대해양파출소,is_a,koad:police_station
+구평치안센터,is_a,koad:police_station
+부산지방경찰청제2기동대,is_a,koad:police_station
+신평파출소,is_a,koad:police_station
+괴정3동치안센터,is_a,koad:police_station
+당리치안센터,is_a,koad:police_station
+부산금정경찰서,is_a,koad:police_station
+장전2치안센터,is_a,koad:police_station
+회동치안센터,is_a,koad:police_station
+서금지구대,is_a,koad:police_station
+서3치안센터,is_a,koad:police_station
+부곡지구대,is_a,koad:police_station
+팔송파출소,is_a,koad:police_station
+노포치안센터,is_a,koad:police_station
+부산강서경찰서,is_a,koad:police_station
+신호파출소,is_a,koad:police_station
+가덕도파출소,is_a,koad:police_station
+녹산파출소,is_a,koad:police_station
+지사파출소,is_a,koad:police_station
+명지파출소,is_a,koad:police_station
+공항파출소,is_a,koad:police_station
+부산연제경찰서,is_a,koad:police_station
+연산8치안센터,is_a,koad:police_station
+거제1치안센터,is_a,koad:police_station
+광남지구대,is_a,koad:police_station
+망미2치안센터,is_a,koad:police_station
+부산사상경찰서,is_a,koad:police_station
+부산기장경찰서,is_a,koad:police_station
+장안파출소,is_a,koad:police_station
+부산중부경찰서,kord:RoadNameAddress,중구 중앙대로 105
+창선치안센터,kord:RoadNameAddress,중구 광복중앙로 1
+대청파출소,kord:RoadNameAddress,중구 중구로 103-1
+남포지구대,kord:RoadNameAddress,중구 해관로 19
+중앙119안전센터,kord:RoadNameAddress,중구 충장대로13번길 40
+영주파출소,kord:RoadNameAddress,중구 동영로 77
+부산서부경찰서,kord:RoadNameAddress,서구 대영로 16
+송도지구대,kord:RoadNameAddress,서구 충무대로 84
+남항해양파출소,kord:RoadNameAddress,서구 해안새벽시장길 91
+아미파출소,kord:RoadNameAddress,서구 해돋이로 267
+구덕지구대,kord:RoadNameAddress,서구 보수대로 258-5
+부산동부경찰서,kord:RoadNameAddress,동구 중앙대로 387
+수성지구대,kord:RoadNameAddress,동구 망양로 811
+자성대파출소,kord:RoadNameAddress,동구 자성공원로 15
+부산영도경찰서,kord:RoadNameAddress,영도구 태종로 46
+동삼2치안센터,kord:RoadNameAddress,영도구 태종로793번길 16
+신선치안센터,kord:RoadNameAddress,영도구 하나길 402
+영선2치안센터,kord:RoadNameAddress,영도구 남항새싹3길 2
+영선지구대,kord:RoadNameAddress,영도구 남항시장길 328
+봉래치안센터,kord:RoadNameAddress,영도구 봉래길 120
+부산진경찰서,kord:RoadNameAddress,부산진구 부전로111번길 6
+범천1파출소,kord:RoadNameAddress,부산진구 중앙번영로 10
+서면지구대,kord:RoadNameAddress,부산진구 신암로 56
+개금1치안센터,kord:RoadNameAddress,부산진구 냉정로 191-1
+당감1치안센터,kord:RoadNameAddress,부산진구 백양대로 50
+부암3치안센터,kord:RoadNameAddress,부산진구 백양순환로119번길 12-5
+연지치안센터,kord:RoadNameAddress,부산진구 새싹로 166
+성지지구대,kord:RoadNameAddress,부산진구 성지로113번길 27
+부산동래경찰서,kord:RoadNameAddress,동래구 명륜로 70
+충렬지구대,kord:RoadNameAddress,동래구 반송로 207
+안락2치안센터,kord:RoadNameAddress,동래구 명안로10번길 100
+명장2동치안센터,kord:RoadNameAddress,동래구 명서로 111
+내성지구대,kord:RoadNameAddress,동래구 동래로 109
+낙민파출소,kord:RoadNameAddress,동래구 온천천로 359
+사직지구대,kord:RoadNameAddress,동래구 중앙대로1277번길 41
+사직1치안센터,kord:RoadNameAddress,동래구 아시아드대로 181
+온천3파출소,kord:RoadNameAddress,동래구 석사북로 93
+온천지구대,kord:RoadNameAddress,동래구 금강공원로 70
+부산남부경찰서,kord:RoadNameAddress,남구 황령대로319번가길 81
+부산지방경찰청제1기동대,kord:RoadNameAddress,남구 신선로 407
+우암파출소,kord:RoadNameAddress,남구 우암로 170
+문현지구대,kord:RoadNameAddress,남구 전포대로20번길 47
+대연치안센터,kord:RoadNameAddress,남구 유엔평화로13번길 63
+부산북부경찰서,kord:RoadNameAddress,북구 화명신도시로 63
+만덕지구대,kord:RoadNameAddress,북구 은행나무로36번가길 24
+덕천지구대,kord:RoadNameAddress,북구 금곡대로 66-8
+해운대경찰서,kord:RoadNameAddress,해운대구 해운대로 129
+송정파출소,kord:RoadNameAddress,해운대구 송정중앙로8번길 65
+좌3치안센터,kord:RoadNameAddress,해운대구 좌동순환로 20
+반여3치안센터,kord:RoadNameAddress,해운대구 재반로270번길 14
+반여23파출소,kord:RoadNameAddress,해운대구 재반로 197
+부산지방경찰청경찰특공대,kord:RoadNameAddress,해운대구 반송동 844
+반송파출소,kord:RoadNameAddress,해운대구 신반송로 177
+사하경찰서,kord:RoadNameAddress,사하구 을숙도대로 665
+다대해양파출소,kord:RoadNameAddress,사하구 다대동로 10
+구평치안센터,kord:RoadNameAddress,사하구 을숙도대로 721
+부산지방경찰청제2기동대,kord:RoadNameAddress,사하구 장평로 198
+신평파출소,kord:RoadNameAddress,사하구 하신중앙로 171
+괴정3동치안센터,kord:RoadNameAddress,사하구 낙동대로 188
+당리치안센터,kord:RoadNameAddress,사하구 낙동대로390번길 5
+부산금정경찰서,kord:RoadNameAddress,금정구 중앙대로 1819
+장전2치안센터,kord:RoadNameAddress,금정구 금샘로 4
+회동치안센터,kord:RoadNameAddress,금정구 금사로 173-1
+서금지구대,kord:RoadNameAddress,금정구 반송로 482-1
+서3치안센터,kord:RoadNameAddress,금정구 서동로 141
+부곡지구대,kord:RoadNameAddress,금정구 동부곡로5번길 45-4
+팔송파출소,kord:RoadNameAddress,금정구 중앙대로 2106
+노포치안센터,kord:RoadNameAddress,금정구 중앙대로 2177
+부산강서경찰서,kord:RoadNameAddress,강서구 명지국제1로 305
+신호파출소,kord:RoadNameAddress,강서구 녹산산단335로 12-22
+가덕도파출소,kord:RoadNameAddress,강서구 동선길 134
+녹산파출소,kord:RoadNameAddress,강서구 낙동남로604번길 2-17
+지사파출소,kord:RoadNameAddress,강서구 과학산단2로20번길 7-20
+명지파출소,kord:RoadNameAddress,강서구 명지새동네길2번길 56-1
+공항파출소,kord:RoadNameAddress,강서구 공항진입로 39
+부산연제경찰서,kord:RoadNameAddress,연제구 토곡로 26
+연산8치안센터,kord:RoadNameAddress,연제구 과정로 227
+거제1치안센터,kord:RoadNameAddress,연제구 거제대로286번길 6
+광남지구대,kord:RoadNameAddress,수영구 수영로554번길 52
+망미2치안센터,kord:RoadNameAddress,수영구 망미배산로30번길 34
+부산사상경찰서,kord:RoadNameAddress,사상구 학감대로 264
+부산기장경찰서,kord:RoadNameAddress,기장군 일광면 기장대로 692
+장안파출소,kord:RoadNameAddress,기장군 장안읍 해맞이로 5
+부산중부경찰서,contact:phone,182
+창선치안센터,contact:phone,051-245-0831
+대청파출소,contact:phone,051-469-5828
+남포지구대,contact:phone,051-245-0835
+중앙119안전센터,contact:phone,051-760-6111
+영주파출소,contact:phone,051-469-5827
+부산서부경찰서,contact:phone,182
+송도지구대,contact:phone,051-254-8261
+남항해양파출소,contact:phone,051-664-2229
+아미파출소,contact:phone,051-256-0823
+구덕지구대,contact:phone,051-255-1276
+부산동부경찰서,contact:phone,182
+수성지구대,contact:phone,051-465-6228
+자성대파출소,contact:phone,051-646-1447
+부산영도경찰서,contact:phone,182
+동삼2치안센터,contact:phone,051-405-2344
+신선치안센터,contact:phone,051-415-0125
+영선2치안센터,contact:phone,051-415-0124
+영선지구대,contact:phone,051-415-0255
+봉래치안센터,contact:phone,051-415-0257
+부산진경찰서,contact:phone,051-890-9324
+범천1파출소,contact:phone,051-646-1446
+서면지구대,contact:phone,051-806-5854
+개금1치안센터,contact:phone,051-891-1848
+당감1치안센터,contact:phone,051-897-4960
+부암3치안센터,contact:phone,051-805-3844
+연지치안센터,contact:phone,051-809-4048
+성지지구대,contact:phone,051-817-0113
+부산동래경찰서,contact:phone,051-559-7324
+충렬지구대,contact:phone,051-522-1042
+안락2치안센터,contact:phone,051-522-2474
+명장2동치안센터,contact:phone,051-526-1731
+내성지구대,contact:phone,051-552-1054
+낙민파출소,contact:phone,051-531-4644
+사직지구대,contact:phone,051-502-0112
+사직1치안센터,contact:phone,051-503-6668
+온천3파출소,contact:phone,051-503-1091
+온천지구대,contact:phone,051-555-0112
+부산남부경찰서,contact:phone,051-610-8324
+부산지방경찰청제1기동대,contact:phone,182
+우암파출소,contact:phone,051-610-8362
+문현지구대,contact:phone,051-610-8231
+대연치안센터,contact:phone,051-627-2732
+부산북부경찰서,contact:phone,051-792-0012
+만덕지구대,contact:phone,051-337-0112
+덕천지구대,contact:phone,051-332-6477
+해운대경찰서,contact:phone,051-665-0257
+송정파출소,contact:phone,051-665-0196
+좌3치안센터,contact:phone,051-665-0188
+반여3치안센터,contact:phone,051-665-0163
+반여23파출소,contact:phone,051-665-0160
+부산지방경찰청경찰특공대,contact:phone,051-544-4113
+반송파출소,contact:phone,051-665-0190
+사하경찰서,contact:phone,051-201-0112
+다대해양파출소,contact:phone,051-664-2232
+구평치안센터,contact:phone,051-262-0118
+부산지방경찰청제2기동대,contact:phone,182
+신평파출소,contact:phone,051-204-2924
+괴정3동치안센터,contact:phone,051-291-9857
+당리치안센터,contact:phone,051-204-3531
+부산금정경찰서,contact:phone,051-510-0324
+장전2치안센터,contact:phone,051-514-8507
+회동치안센터,contact:phone,051-523-7166
+서금지구대,contact:phone,051-522-4787
+서3치안센터,contact:phone,051-522-4786
+부곡지구대,contact:phone,051-514-8505
+팔송파출소,contact:phone,051-515-3170
+노포치안센터,contact:phone,051-508-4365
+부산강서경찰서,contact:phone,051-290-0324
+신호파출소,contact:phone,051-831-1661
+가덕도파출소,contact:phone,051-972-0112
+녹산파출소,contact:phone,051-971-5112
+지사파출소,contact:phone,051-971-6112
+명지파출소,contact:phone,051-664-2234
+공항파출소,contact:phone,051-971-0112
+부산연제경찰서,contact:phone,051-750-0324
+연산8치안센터,contact:phone,051-868-0113
+거제1치안센터,contact:phone,051-861-0069
+광남지구대,contact:phone,051-610-8218
+망미2치안센터,contact:phone,051-761-0113
+부산사상경찰서,contact:phone,182
+부산기장경찰서,contact:phone,182
+장안파출소,contact:phone,051-727-0112
+부산중부경찰서,koad:roadNameCode,2611051000
+창선치안센터,koad:roadNameCode,2611057000
+대청파출소,koad:roadNameCode,2611053000
+남포지구대,koad:roadNameCode,2611051000
+중앙119안전센터,koad:roadNameCode,2611051000
+영주파출소,koad:roadNameCode,2611060000
+부산서부경찰서,koad:roadNameCode,2614054000
+송도지구대,koad:roadNameCode,2614068000
+남항해양파출소,koad:roadNameCode,2614065000
+아미파출소,koad:roadNameCode,2614061500
+구덕지구대,koad:roadNameCode,2614053000
+부산동부경찰서,koad:roadNameCode,2617057000
+수성지구대,koad:roadNameCode,2617060000
+자성대파출소,koad:roadNameCode,2617066000
+부산영도경찰서,koad:roadNameCode,2620053000
+동삼2치안센터,koad:roadNameCode,2620066000
+신선치안센터,koad:roadNameCode,2620058500
+영선2치안센터,koad:roadNameCode,2620055000
+영선지구대,koad:roadNameCode,2620054000
+봉래치안센터,koad:roadNameCode,2620060500
+부산진경찰서,koad:roadNameCode,2623051000
+범천1파출소,koad:roadNameCode,2623077000
+서면지구대,koad:roadNameCode,2623078000
+개금1치안센터,koad:roadNameCode,2623074000
+당감1치안센터,koad:roadNameCode,2623067000
+부암3치안센터,koad:roadNameCode,2623066000
+연지치안센터,koad:roadNameCode,2623054000
+성지지구대,koad:roadNameCode,2623055000
+부산동래경찰서,koad:roadNameCode,2626051000
+충렬지구대,koad:roadNameCode,2626074000
+안락2치안센터,koad:roadNameCode,2626075000
+명장2동치안센터,koad:roadNameCode,2626076200
+내성지구대,koad:roadNameCode,2626054500
+낙민파출소,koad:roadNameCode,2626051000
+사직지구대,koad:roadNameCode,2626060000
+사직1치안센터,koad:roadNameCode,2626058000
+온천3파출소,koad:roadNameCode,2626057000
+온천지구대,koad:roadNameCode,2626055000
+부산남부경찰서,koad:roadNameCode,2629053000
+부산지방경찰청제1기동대,koad:roadNameCode,2629061000
+우암파출소,koad:roadNameCode,2629064500
+문현지구대,koad:roadNameCode,2629070000
+대연치안센터,koad:roadNameCode,2629051000
+부산북부경찰서,koad:roadNameCode,2632054300
+만덕지구대,koad:roadNameCode,2632057200
+덕천지구대,koad:roadNameCode,2632056000
+해운대경찰서,koad:roadNameCode,2635065000
+송정파출소,koad:roadNameCode,2635055300
+좌3치안센터,koad:roadNameCode,2635055100
+반여3치안센터,koad:roadNameCode,2635058000
+반여23파출소,koad:roadNameCode,2635061000
+부산지방경찰청경찰특공대,koad:roadNameCode,2635061000
+반송파출소,koad:roadNameCode,2635053000
+사하경찰서,koad:roadNameCode,2638052000
+다대해양파출소,koad:roadNameCode,2638061000
+구평치안센터,koad:roadNameCode,2638058000
+부산지방경찰청제2기동대,koad:roadNameCode,2638057200
+신평파출소,koad:roadNameCode,2638062000
+괴정3동치안센터,koad:roadNameCode,2638055000
+당리치안센터,koad:roadNameCode,2638055000
+부산금정경찰서,koad:roadNameCode,2641067000
+장전2치안센터,koad:roadNameCode,2641057000
+회동치안센터,koad:roadNameCode,2641057000
+서금지구대,koad:roadNameCode,2641053000
+서3치안센터,koad:roadNameCode,2641058000
+부곡지구대,koad:roadNameCode,2641059000
+팔송파출소,koad:roadNameCode,2641066500
+노포치안센터,koad:roadNameCode,2644051000
+부산강서경찰서,koad:roadNameCode,2644055000
+신호파출소,koad:roadNameCode,2644058000
+가덕도파출소,koad:roadNameCode,2644056000
+녹산파출소,koad:roadNameCode,2644056000
+지사파출소,koad:roadNameCode,2644056000
+명지파출소,koad:roadNameCode,2644053500
+공항파출소,koad:roadNameCode,2644051000
+부산연제경찰서,koad:roadNameCode,2647065000
+연산8치안센터,koad:roadNameCode,2647073000
+거제1치안센터,koad:roadNameCode,2650076000
+광남지구대,koad:roadNameCode,2650074000
+망미2치안센터,koad:roadNameCode,2653060000
+부산사상경찰서,koad:roadNameCode,2653064500
+부산기장경찰서,koad:roadNameCode,2671025300
+장안파출소,koad:roadNameCode,2671025300
+부산중부경찰서,"longitudelatitude 35.10742091
+latitude 35.09947155
+latitude 35.10587284
+latitude 35.1005393
+latitude 35.10760354
+latitude 35.1119108
+latitude 35.10984475
+latitude 35.07939354
+latitude 35.09212253
+latitude 35.10030382
+latitude 35.1171025
+latitude 35.10708965
+latitude 35.12002861
+latitude 35.12929757
+latitude 35.0817881
+latitude 35.08466595
+latitude 35.06525129
+latitude 35.08580771
+latitude 35.08345596
+latitude 35.09126757
+latitude 35.158073
+latitude 35.14652053
+latitude 35.1447906
+latitude 35.15575021
+latitude 35.15046065
+latitude 35.16274524
+latitude 35.16283064
+latitude 35.17098275
+latitude 35.20492451
+latitude 35.20795589
+latitude 35.19963509
+latitude 35.20903015
+latitude 35.21222319
+latitude 35.2073071
+latitude 35.19815112
+latitude 35.20071124
+latitude 35.1946616
+latitude 35.20574521
+latitude 35.1225211
+latitude 35.11764738
+latitude 35.12082241
+latitude 35.12464057
+latitude 35.13893631
+latitude 35.2500788
+latitude 35.19688251
+latitude 35.20480932
+latitude 35.1595605
+latitude 35.18964213
+latitude 35.18067269
+latitude 35.17376054
+latitude 35.20121513
+latitude 35.19489848
+latitude 35.22538193
+latitude 35.09063739
+latitude 35.06355298
+latitude 35.05455105
+latitude 35.08519428
+latitude 35.08328179
+latitude 35.09942116
+latitude 35.10142622
+latitude 35.24388097
+latitude 35.25032259
+latitude 35.22636746
+latitude 35.22664474
+latitude 35.21609312
+latitude 35.21529259
+latitude 35.24205404
+latitude 35.27234209
+latitude 35.0895966
+latitude 35.05664069
+latitude 35.08988589
+latitude 35.05286063
+latitude 35.11273252
+latitude 35.084563
+latitude 35.17854941
+latitude 35.18344326
+latitude 35.1859033
+latitude 35.19109124
+latitude 35.14537016
+latitude 35.1717912
+latitude 35.17452651
+latitude 35.32481808
+latitude 35.32478276
+",129.0359245
+창선치안센터,longitude,129.0311664
+대청파출소,longitude,129.0313832
+남포지구대,longitude,129.0355576
+중앙119안전센터,longitude,129.0384458
+영주파출소,longitude,129.0321944
+부산서부경찰서,longitude,129.0135818
+송도지구대,longitude,129.021504
+남항해양파출소,longitude,129.0253298
+아미파출소,longitude,129.0161772
+구덕지구대,longitude,129.0173721
+부산동부경찰서,longitude,129.036519
+수성지구대,longitude,129.0345227
+자성대파출소,longitude,129.0452982
+부산영도경찰서,longitude,129.0768638
+동삼2치안센터,longitude,129.0686547
+신선치안센터,longitude,129.0822007
+영선2치안센터,longitude,129.0461284
+영선지구대,longitude,129.0416682
+봉래치안센터,longitude,129.0433823
+부산진경찰서,longitude,129.0646345
+범천1파출소,longitude,129.0562081
+서면지구대,longitude,129.0602359
+개금1치안센터,longitude,129.04039
+당감1치안센터,longitude,129.0209263
+부암3치안센터,longitude,129.0441413
+연지치안센터,longitude,129.0531883
+성지지구대,longitude,129.0500333
+부산동래경찰서,longitude,129.0662907
+충렬지구대,longitude,129.1024128
+안락2치안센터,longitude,129.0971064
+명장2동치안센터,longitude,129.1033043
+내성지구대,longitude,129.1002216
+낙민파출소,longitude,129.084546
+사직지구대,longitude,129.0838138
+사직1치안센터,longitude,129.0755776
+온천3파출소,longitude,129.0592427
+온천지구대,longitude,129.0662162
+부산남부경찰서,longitude,129.084539
+부산지방경찰청제1기동대,longitude,129.0950541
+우암파출소,longitude,129.0969732
+문현지구대,longitude,129.0781642
+대연치안센터,longitude,129.0697814
+부산북부경찰서,longitude,129.0128482
+만덕지구대,longitude,128.9900955
+덕천지구대,longitude,129.0331892
+해운대경찰서,longitude,129.1437034
+송정파출소,longitude,129.1253401
+좌3치안센터,longitude,129.2004741
+반여3치안센터,longitude,129.1307991
+반여23파출소,longitude,129.1324487
+부산지방경찰청경찰특공대,longitude,129.1304117
+반송파출소,longitude,129.1469919
+사하경찰서,longitude,128.9734122
+다대해양파출소,longitude,128.9820086
+구평치안센터,longitude,128.9716398
+부산지방경찰청제2기동대,longitude,128.984317
+신평파출소,longitude,128.9736736
+괴정3동치안센터,longitude,128.9883825
+당리치안센터,longitude,128.9958925
+부산금정경찰서,longitude,129.0923792
+장전2치안센터,longitude,129.0561352
+회동치안센터,longitude,129.0782828
+서금지구대,longitude,129.1174319
+서3치안센터,longitude,129.1164865
+부곡지구대,longitude,129.1021265
+팔송파출소,longitude,129.0924545
+노포치안센터,longitude,129.0931157
+부산강서경찰서,longitude,128.8567938
+신호파출소,longitude,128.8316554
+가덕도파출소,longitude,128.8564106
+녹산파출소,longitude,128.8309687
+지사파출소,longitude,128.886288
+명지파출소,longitude,128.900069
+공항파출소,longitude,128.9564833
+부산연제경찰서,longitude,129.1057478
+연산8치안센터,longitude,129.1093819
+거제1치안센터,longitude,129.0785128
+광남지구대,longitude,129.1123694
+망미2치안센터,longitude,129.1064884
+부산사상경찰서,longitude,128.978757
+부산기장경찰서,longitude,129.1798997
+장안파출소,longitude,129.2123342
+부산중부경찰서,latitude,35.10742091
+창선치안센터,latitude,35.09947155
+대청파출소,latitude,35.10587284
+남포지구대,latitude,35.1005393
+중앙119안전센터,latitude,35.10760354
+영주파출소,latitude,35.1119108
+부산서부경찰서,latitude,35.10984475
+송도지구대,latitude,35.07939354
+남항해양파출소,latitude,35.09212253
+아미파출소,latitude,35.10030382
+구덕지구대,latitude,35.1171025
+부산동부경찰서,latitude,35.10708965
+수성지구대,latitude,35.12002861
+자성대파출소,latitude,35.12929757
+부산영도경찰서,latitude,35.0817881
+동삼2치안센터,latitude,35.08466595
+신선치안센터,latitude,35.06525129
+영선2치안센터,latitude,35.08580771
+영선지구대,latitude,35.08345596
+봉래치안센터,latitude,35.09126757
+부산진경찰서,latitude,35.158073
+범천1파출소,latitude,35.14652053
+서면지구대,latitude,35.1447906
+개금1치안센터,latitude,35.15575021
+당감1치안센터,latitude,35.15046065
+부암3치안센터,latitude,35.16274524
+연지치안센터,latitude,35.16283064
+성지지구대,latitude,35.17098275
+부산동래경찰서,latitude,35.20492451
+충렬지구대,latitude,35.20795589
+안락2치안센터,latitude,35.19963509
+명장2동치안센터,latitude,35.20903015
+내성지구대,latitude,35.21222319
+낙민파출소,latitude,35.2073071
+사직지구대,latitude,35.19815112
+사직1치안센터,latitude,35.20071124
+온천3파출소,latitude,35.1946616
+온천지구대,latitude,35.20574521
+부산남부경찰서,latitude,35.1225211
+부산지방경찰청제1기동대,latitude,35.11764738
+우암파출소,latitude,35.12082241
+문현지구대,latitude,35.12464057
+대연치안센터,latitude,35.13893631
+부산북부경찰서,latitude,35.2500788
+만덕지구대,latitude,35.19688251
+덕천지구대,latitude,35.20480932
+해운대경찰서,latitude,35.1595605
+송정파출소,latitude,35.18964213
+좌3치안센터,latitude,35.18067269
+반여3치안센터,latitude,35.17376054
+반여23파출소,latitude,35.20121513
+부산지방경찰청경찰특공대,latitude,35.19489848
+반송파출소,latitude,35.22538193
+사하경찰서,latitude,35.09063739
+다대해양파출소,latitude,35.06355298
+구평치안센터,latitude,35.05455105
+부산지방경찰청제2기동대,latitude,35.08519428
+신평파출소,latitude,35.08328179
+괴정3동치안센터,latitude,35.09942116
+당리치안센터,latitude,35.10142622
+부산금정경찰서,latitude,35.24388097
+장전2치안센터,latitude,35.25032259
+회동치안센터,latitude,35.22636746
+서금지구대,latitude,35.22664474
+서3치안센터,latitude,35.21609312
+부곡지구대,latitude,35.21529259
+팔송파출소,latitude,35.24205404
+노포치안센터,latitude,35.27234209
+부산강서경찰서,latitude,35.0895966
+신호파출소,latitude,35.05664069
+가덕도파출소,latitude,35.08988589
+녹산파출소,latitude,35.05286063
+지사파출소,latitude,35.11273252
+명지파출소,latitude,35.084563
+공항파출소,latitude,35.17854941
+부산연제경찰서,latitude,35.18344326
+연산8치안센터,latitude,35.1859033
+거제1치안센터,latitude,35.19109124
+광남지구대,latitude,35.14537016
+망미2치안센터,latitude,35.1717912
+부산사상경찰서,latitude,35.17452651
+부산기장경찰서,latitude,35.32481808
+장안파출소,latitude,35.32478276

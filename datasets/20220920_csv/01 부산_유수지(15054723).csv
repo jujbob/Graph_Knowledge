@@ -1,0 +1,45 @@
+춘천,is_a,basin
+송정,is_a,basin
+송정게이트1,is_a,basin
+송정게이트2,is_a,basin
+우2동,is_a,basin
+재송1,is_a,basin
+반여1,is_a,basin
+반여2,is_a,basin
+재송2,is_a,basin
+춘천,located_at,부산광역시 해운대구 해운대해변로 209 번가길32
+송정,located_at,부산광역시 해운대구 송정동 451번지
+송정게이트1,located_at,송정동 183-17
+송정게이트2,located_at,송정동 183-17
+우2동,located_at,부산광역시 해운대구 우동 1185-206
+재송1,located_at,부산광역시 해운대구 수영강변 대로353
+반여1,located_at,부산광역시 해운대구 수영강변 대로606
+반여2,located_at,부산광역시 해운대구 선수촌로 119
+재송2,located_at,부산광역시 해운대구 재송동
+춘천,has_motor,670×3(250×1)
+송정,has_motor,100× 4
+송정게이트1,has_motor,80x2
+송정게이트2,has_motor,80x2
+우2동,has_motor,"5x1,40x1,30x1"
+재송1,has_motor,75×2
+반여1,has_motor,750×4
+반여2,has_motor,50×2
+재송2,has_motor,5×3
+춘천,has_drain_volume,1070
+송정,has_drain_volume,120
+송정게이트1,has_drain_volume,120
+송정게이트2,has_drain_volume,120
+우2동,has_drain_volume,31
+재송1,has_drain_volume,100
+반여1,has_drain_volume,1460
+반여2,has_drain_volume,44
+재송2,has_drain_volume,5.5
+춘천,has_reservoir,6000
+송정,has_reservoir,1800
+송정게이트1,has_reservoir,
+송정게이트2,has_reservoir,
+우2동,has_reservoir,50
+재송1,has_reservoir,1700
+반여1,has_reservoir,8500
+반여2,has_reservoir,75
+재송2,has_reservoir,6

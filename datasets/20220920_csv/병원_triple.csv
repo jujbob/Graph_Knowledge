@@ -1,0 +1,648 @@
+메리놀병원,is_a,koad:hospital
+새한정형외과의원,is_a,koad:hospital
+성신항운외과,is_a,koad:hospital
+좋은미래정형외과의원,is_a,koad:hospital
+청십자메디칼의원,is_a,koad:hospital
+고신의료원,is_a,koad:hospital
+동아대학교병원,is_a,koad:hospital
+부산대학교병원,is_a,koad:hospital
+삼육부산병원,is_a,koad:hospital
+봉생병원,is_a,koad:hospital
+일신기독병원,is_a,koad:hospital
+좋은문화병원,is_a,koad:hospital
+영도병원,is_a,koad:hospital
+영도참편한요양병원,is_a,koad:hospital
+인제요양병원,is_a,koad:hospital
+정요양병원,is_a,koad:hospital
+태종대요양병원,is_a,koad:hospital
+해동병원,is_a,koad:hospital
+21세기라파병원,is_a,koad:hospital
+동의병원,is_a,koad:hospital
+부산백병원,is_a,koad:hospital
+부산제2항운병원,is_a,koad:hospital
+성가병원,is_a,koad:hospital
+세흥병원,is_a,koad:hospital
+오성병원,is_a,koad:hospital
+온종합병원,is_a,koad:hospital
+이샘병원,is_a,koad:hospital
+참병원,is_a,koad:hospital
+청맥병원,is_a,koad:hospital
+춘해병원,is_a,koad:hospital
+한빛병원,is_a,koad:hospital
+행복한병원,is_a,koad:hospital
+휴병원,is_a,koad:hospital
+광혜병원,is_a,koad:hospital
+대동병원,is_a,koad:hospital
+대한병원,is_a,koad:hospital
+동래봉생병원,is_a,koad:hospital
+동래성모병원,is_a,koad:hospital
+마더즈병원,is_a,koad:hospital
+미래병원,is_a,koad:hospital
+부산힘찬병원,is_a,koad:hospital
+세계로병원,is_a,koad:hospital
+우리들병원,is_a,koad:hospital
+부산고려병원,is_a,koad:hospital
+부산성소병원,is_a,koad:hospital
+부산성모병원,is_a,koad:hospital
+구포부민병원,is_a,koad:hospital
+구포성심병원,is_a,koad:hospital
+미래로병원,is_a,koad:hospital
+베스티안부산병원,is_a,koad:hospital
+부민병원,is_a,koad:hospital
+서울아동병원,is_a,koad:hospital
+한사랑내과병원,is_a,koad:hospital
+화명일신기독병원,is_a,koad:hospital
+김앤정해운대병원,is_a,koad:hospital
+나눔과행복병원,is_a,koad:hospital
+마리나병원,is_a,koad:hospital
+바른길병원,is_a,koad:hospital
+엘리움병원,is_a,koad:hospital
+해운대백병원,is_a,koad:hospital
+해운대자명병원,is_a,koad:hospital
+효성시티병원,is_a,koad:hospital
+강동병원,is_a,koad:hospital
+경희병원,is_a,koad:hospital
+괴정병원,is_a,koad:hospital
+다대자연병원,is_a,koad:hospital
+부산본병원,is_a,koad:hospital
+우리원병원,is_a,koad:hospital
+장림한서병원,is_a,koad:hospital
+중앙U병원,is_a,koad:hospital
+큐병원,is_a,koad:hospital
+프라임병원,is_a,koad:hospital
+하나병원,is_a,koad:hospital
+항플러스병원,is_a,koad:hospital
+허브휴병원,is_a,koad:hospital
+동래병원,is_a,koad:hospital
+마음향기병원,is_a,koad:hospital
+메드윌병원,is_a,koad:hospital
+부산마이크로병원,is_a,koad:hospital
+새우리남산병원,is_a,koad:hospital
+세웅병원,is_a,koad:hospital
+아름다운강산병원,is_a,koad:hospital
+왈레스기념침례병원,is_a,koad:hospital
+패밀리병원,is_a,koad:hospital
+행복한외과병원,is_a,koad:hospital
+갑을녹산병원,is_a,koad:hospital
+가덕도보건지소,is_a,koad:hospital
+부산광역시의료원,is_a,koad:hospital
+BHS한서병원,is_a,koad:hospital
+부산센텀병원,is_a,koad:hospital
+수영삼성병원,is_a,koad:hospital
+자모여성병원,is_a,koad:hospital
+좋은강안병원,is_a,koad:hospital
+길정병원,is_a,koad:hospital
+대남병원,is_a,koad:hospital
+부산보훈병원,is_a,koad:hospital
+부영병원,is_a,koad:hospital
+사상고려병원,is_a,koad:hospital
+사상중앙병원,is_a,koad:hospital
+서부산센텀병원,is_a,koad:hospital
+서울유병원,is_a,koad:hospital
+영동병원,is_a,koad:hospital
+우리병원,is_a,koad:hospital
+좋은삼선병원,is_a,koad:hospital
+주례자연병원,is_a,koad:hospital
+큰솔병원,is_a,koad:hospital
+기장병원,is_a,koad:hospital
+동남권원자력병원,is_a,koad:hospital
+메리놀병원, kord:RoadNameAddress,부산 중구 중구로 121
+새한정형외과의원, kord:RoadNameAddress,부산 중구 대청로 45
+성신항운외과, kord:RoadNameAddress,부산 중구 대청로 77
+좋은미래정형외과의원, kord:RoadNameAddress,부산 중구 대청로 70
+청십자메디칼의원, kord:RoadNameAddress,부산 중구 자갈치로37번길 4
+고신의료원, kord:RoadNameAddress,부산 서구 감천로 262
+동아대학교병원, kord:RoadNameAddress,부산 서구 대신공원로 26
+부산대학교병원, kord:RoadNameAddress,부산 서구 구덕로 179
+삼육부산병원, kord:RoadNameAddress,부산 서구 대티로 170
+봉생병원, kord:RoadNameAddress,부산 동구 중앙대로 401
+일신기독병원, kord:RoadNameAddress,부산 동구 정공단로 27
+좋은문화병원, kord:RoadNameAddress,부산 동구 범일로 119
+영도병원, kord:RoadNameAddress,부산 영도구 태종로 85
+영도참편한요양병원, kord:RoadNameAddress,부산 영도구 동삼서로 21
+인제요양병원, kord:RoadNameAddress,부산 영도구 절영로 21
+정요양병원, kord:RoadNameAddress,부산 영도구 절영로 32
+태종대요양병원, kord:RoadNameAddress,부산 영도구 감지길 27-12
+해동병원, kord:RoadNameAddress,부산 영도구 태종로 133
+21세기라파병원, kord:RoadNameAddress,부산 부산진구 중앙대로 777
+동의병원, kord:RoadNameAddress,부산 부산진구 양정로 62
+부산백병원, kord:RoadNameAddress,부산 부산진구 복지로 75
+부산제2항운병원, kord:RoadNameAddress,부산 부산진구 범일로 186
+성가병원, kord:RoadNameAddress,부산 부산진구 범일로 133
+세흥병원, kord:RoadNameAddress,부산 부산진구 중앙대로 805
+오성병원, kord:RoadNameAddress,부산 부산진구 중앙대로 910
+온종합병원, kord:RoadNameAddress,부산 부산진구 가야대로 721
+이샘병원, kord:RoadNameAddress,부산 부산진구 황령대로 12
+참병원, kord:RoadNameAddress,부산 부산진구 가야대로 451
+청맥병원, kord:RoadNameAddress,부산 부산진구 중앙대로 716-1
+춘해병원, kord:RoadNameAddress,부산 부산진구 중앙대로 605
+한빛병원, kord:RoadNameAddress,부산 부산진구 범일로 177
+행복한병원, kord:RoadNameAddress,부산 부산진구 봉수로 18
+휴병원, kord:RoadNameAddress,부산 부산진구 가야대로 713
+광혜병원, kord:RoadNameAddress,부산 동래구 충렬대로 96
+대동병원, kord:RoadNameAddress,부산 동래구 충렬대로 187
+대한병원, kord:RoadNameAddress,부산 동래구 아시아드대로 224
+동래봉생병원, kord:RoadNameAddress,부산 동래구 안연로109번길 27
+동래성모병원, kord:RoadNameAddress,부산 동래구 충렬대로 188
+마더즈병원, kord:RoadNameAddress,부산 동래구 충렬대로 280
+미래병원, kord:RoadNameAddress,부산 동래구 충렬대로 358
+부산힘찬병원, kord:RoadNameAddress,부산 동래구 충렬대로 255
+세계로병원, kord:RoadNameAddress,부산 동래구 종합운동장로 42
+우리들병원, kord:RoadNameAddress,부산 동래구 중앙대로 1523
+부산고려병원, kord:RoadNameAddress,부산 남구 수영로 238
+부산성소병원, kord:RoadNameAddress,부산 남구 수영로 175
+부산성모병원, kord:RoadNameAddress,부산 남구 용호로232번길 25-14
+구포부민병원, kord:RoadNameAddress,부산 북구 사상로 605
+구포성심병원, kord:RoadNameAddress,부산 북구 낙동대로 1786
+미래로병원, kord:RoadNameAddress,부산 북구 금곡대로 15
+베스티안부산병원, kord:RoadNameAddress,부산 북구 화명대로 1
+부민병원, kord:RoadNameAddress,부산 북구 만덕대로 59
+서울아동병원, kord:RoadNameAddress,부산 북구 금곡대로 312
+한사랑내과병원, kord:RoadNameAddress,부산 북구 만덕대로 38
+화명일신기독병원, kord:RoadNameAddress,부산 북구 금곡대로 264-1
+김앤정해운대병원, kord:RoadNameAddress,부산 해운대구 좌동로 88
+나눔과행복병원, kord:RoadNameAddress,부산 해운대구 좌동순환로 502
+마리나병원, kord:RoadNameAddress,부산 해운대구 해운대해변로 154
+바른길병원, kord:RoadNameAddress,부산 해운대구 선수촌로 144
+엘리움병원, kord:RoadNameAddress,부산 해운대구 해운대로 794
+해운대백병원, kord:RoadNameAddress,부산 해운대구 해운대로 875
+해운대자명병원, kord:RoadNameAddress,부산 해운대구 해운대로469번가길 75
+효성시티병원, kord:RoadNameAddress,부산 해운대구 해운대로 135
+강동병원, kord:RoadNameAddress,부산 사하구 다대로 145
+경희병원, kord:RoadNameAddress,부산 사하구 다대로 321
+괴정병원, kord:RoadNameAddress,부산 사하구 낙동대로 248
+다대자연병원, kord:RoadNameAddress,부산 사하구 장평로 1
+부산본병원, kord:RoadNameAddress,부산 사하구 승학로 8
+우리원병원, kord:RoadNameAddress,부산 사하구 다대로 565
+장림한서병원, kord:RoadNameAddress,부산 사하구 다대로 315
+중앙U병원, kord:RoadNameAddress,부산 사하구 감천로 59
+큐병원, kord:RoadNameAddress,부산 사하구 낙동남로 1401
+프라임병원, kord:RoadNameAddress,부산 사하구 낙동남로 1410
+하나병원, kord:RoadNameAddress,부산 사하구 다대로 311
+항플러스병원, kord:RoadNameAddress,부산 사하구 낙동남로 1394
+허브휴병원, kord:RoadNameAddress,부산 사하구 비봉로 70
+동래병원, kord:RoadNameAddress,부산 금정구 체육공원로 608
+마음향기병원, kord:RoadNameAddress,부산 금정구 금샘로 56
+메드윌병원, kord:RoadNameAddress,부산 금정구 중앙대로 1951
+부산마이크로병원, kord:RoadNameAddress,부산 금정구 중앙대로 1875
+새우리남산병원, kord:RoadNameAddress,부산 금정구 중앙대로 2025
+세웅병원, kord:RoadNameAddress,부산 금정구 서동로 162
+아름다운강산병원, kord:RoadNameAddress,부산 금정구 공단로 7
+왈레스기념침례병원, kord:RoadNameAddress,부산 금정구 금단로 200
+패밀리병원, kord:RoadNameAddress,부산 금정구 온천장로 136-1
+행복한외과병원, kord:RoadNameAddress,부산 금정구 부곡로 184
+갑을녹산병원, kord:RoadNameAddress,부산 강서구 녹산산단321로 24-8
+가덕도보건지소, kord:RoadNameAddress,부산 강서구 성북1길 70-1
+부산광역시의료원, kord:RoadNameAddress,부산 연제구 월드컵대로 359
+BHS한서병원, kord:RoadNameAddress,부산 수영구 수영로 615
+부산센텀병원, kord:RoadNameAddress,부산 수영구 수영로 677
+수영삼성병원, kord:RoadNameAddress,부산 수영구 수영로 636
+자모여성병원, kord:RoadNameAddress,부산 수영구 수영로 555
+좋은강안병원, kord:RoadNameAddress,부산 수영구 수영로 493
+길정병원, kord:RoadNameAddress,부산 사상구 학감대로39번길 120
+대남병원, kord:RoadNameAddress,부산 사상구 학감대로39번길 116
+부산보훈병원, kord:RoadNameAddress,부산 사상구 백양대로 420
+부영병원, kord:RoadNameAddress,부산 사상구 학감대로123번길 76
+사상고려병원, kord:RoadNameAddress,부산 사상구 사상로 282
+사상중앙병원, kord:RoadNameAddress,부산 사상구 삼덕로5번길 85
+서부산센텀병원, kord:RoadNameAddress,부산 사상구 새벽로 226
+서울유병원, kord:RoadNameAddress,부산 사상구 학장로324번길 8
+영동병원, kord:RoadNameAddress,부산 사상구 사상로 170
+우리병원, kord:RoadNameAddress,부산 사상구 사상로 237
+좋은삼선병원, kord:RoadNameAddress,부산 사상구 가야대로 326
+주례자연병원, kord:RoadNameAddress,부산 사상구 학장로 325
+큰솔병원, kord:RoadNameAddress,부산 사상구 대동로 141
+기장병원, kord:RoadNameAddress,부산 기장군 기장읍 대청로72번길 6
+동남권원자력병원, kord:RoadNameAddress,부산 기장군 장안읍 좌동길 40
+메리놀병원,contact:phone,051-465-8801
+새한정형외과의원,contact:phone,051-247-7172
+성신항운외과,contact:phone,051-245-7504
+좋은미래정형외과의원,contact:phone,051-231-5555
+청십자메디칼의원,contact:phone,051-253-7582
+고신의료원,contact:phone,051-990-6114
+동아대학교병원,contact:phone,051-247-6600
+부산대학교병원,contact:phone,051-254-0171
+삼육부산병원,contact:phone,051-242-9751
+봉생병원,contact:phone,051-664-4000
+일신기독병원,contact:phone,051-630-0300
+좋은문화병원,contact:phone,051-630-0731
+영도병원,contact:phone,051-414-8101
+영도참편한요양병원,contact:phone,051-403-9971
+인제요양병원,contact:phone,051-412-2440
+정요양병원,contact:phone,1899-0071
+태종대요양병원,contact:phone,051-717-3101
+해동병원,contact:phone,051-412-6161
+21세기라파병원,contact:phone,051-636-3311
+동의병원,contact:phone,051-850-8509
+부산백병원,contact:phone,051-890-6212
+부산제2항운병원,contact:phone,051-607-5300
+성가병원,contact:phone,051-646-6936
+세흥병원,contact:phone,051-819-0173
+오성병원,contact:phone,051-850-0800
+온종합병원,contact:phone,051-607-0136
+이샘병원,contact:phone,051-631-2110
+참병원,contact:phone,051-714-0890
+청맥병원,contact:phone,051-804-0119
+춘해병원,contact:phone,051-608-0304
+한빛병원,contact:phone,051-645-2000
+행복한병원,contact:phone,051-757-5119
+휴병원,contact:phone,051-803-9000
+광혜병원,contact:phone,051-503-2111
+대동병원,contact:phone,051-554-1233
+대한병원,contact:phone,051-552-1577
+동래봉생병원,contact:phone,051-531-6000
+동래성모병원,contact:phone,051-559-8888
+마더즈병원,contact:phone,051-552-0521
+미래병원,contact:phone,051-523-3200
+부산힘찬병원,contact:phone,1899-2555
+세계로병원,contact:phone,051-500-6000
+우리들병원,contact:phone,051-559-2000
+부산고려병원,contact:phone,051-930-3000
+부산성소병원,contact:phone,051-633-1123
+부산성모병원,contact:phone,051-933-7000
+구포부민병원,contact:phone,051-366-7000
+구포성심병원,contact:phone,051-333-2001
+미래로병원,contact:phone,051-332-9151
+베스티안부산병원,contact:phone,051-332-7575
+부민병원,contact:phone,051-330-3000
+서울아동병원,contact:phone,051-364-1275
+한사랑내과병원,contact:phone,051-334-1001
+화명일신기독병원,contact:phone,070-4340-6097
+김앤정해운대병원,contact:phone,051-702-7017
+나눔과행복병원,contact:phone,051-744-0123
+마리나병원,contact:phone,051-743-1661
+바른길병원,contact:phone,051-525-0058
+엘리움병원,contact:phone,051-791-1006
+해운대백병원,contact:phone,051-797-0100
+해운대자명병원,contact:phone,051-780-5566
+효성시티병원,contact:phone,051-709-3000
+강동병원,contact:phone,051-292-1940
+경희병원,contact:phone,051-265-7575
+괴정병원,contact:phone,051-205-2611
+다대자연병원,contact:phone,051-204-5004
+부산본병원,contact:phone,1599-8275
+우리원병원,contact:phone,051-260-1000
+장림한서병원,contact:phone,051-262-3344
+중앙U병원,contact:phone,051-293-7766
+큐병원,contact:phone,051-207-4343
+프라임병원,contact:phone,051-202-7800
+하나병원,contact:phone,051-266-2600
+항플러스병원,contact:phone,051-207-6111
+허브휴병원,contact:phone,051-294-8330
+동래병원,contact:phone,051-508-0011
+마음향기병원,contact:phone,051-516-1220
+메드윌병원,contact:phone,051-519-8000
+부산마이크로병원,contact:phone,051-514-1400
+새우리남산병원,contact:phone,051-516-9999
+세웅병원,contact:phone,051-522-6000
+아름다운강산병원,contact:phone,051-526-7100
+왈레스기념침례병원,contact:phone,051-580-2000
+패밀리병원,contact:phone,051-515-0079
+행복한외과병원,contact:phone,051-583-8252
+갑을녹산병원,contact:phone,051-974-8300
+가덕도보건지소,contact:phone,051-970-4797
+부산광역시의료원,contact:phone,051-507-3000
+BHS한서병원,contact:phone,051-756-0081
+부산센텀병원,contact:phone,051-750-5000
+수영삼성병원,contact:phone,051-752-0038
+자모여성병원,contact:phone,051-760-0600
+좋은강안병원,contact:phone,051-625-0900
+길정병원,contact:phone,051-328-5566
+대남병원,contact:phone,051-324-2227
+부산보훈병원,contact:phone,051-601-6073
+부영병원,contact:phone,051-320-6800
+사상고려병원,contact:phone,051-301-7340
+사상중앙병원,contact:phone,051-305-7001
+서부산센텀병원,contact:phone,051-329-3000
+서울유병원,contact:phone,051-311-0900
+영동병원,contact:phone,051-327-1199
+우리병원,contact:phone,051-323-6611
+좋은삼선병원,contact:phone,051-322-0900
+주례자연병원,contact:phone,051-324-1004
+큰솔병원,contact:phone,051-325-9700
+기장병원,contact:phone,051-723-0171
+동남권원자력병원,contact:phone,051-720-5114
+메리놀병원,koad:roadNameCode,2611052000
+새한정형외과의원,koad:roadNameCode,2611054500
+성신항운외과,koad:roadNameCode,2611053000
+좋은미래정형외과의원,koad:roadNameCode,2611056000
+청십자메디칼의원,koad:roadNameCode,2611058000
+고신의료원,koad:roadNameCode,2614068000
+동아대학교병원,koad:roadNameCode,2614053000
+부산대학교병원,koad:roadNameCode,2614061500
+삼육부산병원,koad:roadNameCode,2614054000
+봉생병원,koad:roadNameCode,2617064500
+일신기독병원,koad:roadNameCode,2617064500
+좋은문화병원,koad:roadNameCode,2617066000
+영도병원,koad:roadNameCode,2620053000
+영도참편한요양병원,koad:roadNameCode,2620065000
+인제요양병원,koad:roadNameCode,2620053000
+정요양병원,koad:roadNameCode,2620053000
+태종대요양병원,koad:roadNameCode,2620066000
+해동병원,koad:roadNameCode,2620059000
+21세기라파병원,koad:roadNameCode,2623051000
+동의병원,koad:roadNameCode,2623057000
+부산백병원,koad:roadNameCode,2623075000
+부산제2항운병원,koad:roadNameCode,2623077000
+성가병원,koad:roadNameCode,2623077000
+세흥병원,koad:roadNameCode,2623051000
+오성병원,koad:roadNameCode,2623056000
+온종합병원,koad:roadNameCode,2623068000
+이샘병원,koad:roadNameCode,2623077000
+참병원,koad:roadNameCode,2623074000
+청맥병원,koad:roadNameCode,2623052000
+춘해병원,koad:roadNameCode,2623077000
+한빛병원,koad:roadNameCode,2623077000
+행복한병원,koad:roadNameCode,2623060000
+휴병원,koad:roadNameCode,2623068000
+광혜병원,koad:roadNameCode,2626057000
+대동병원,koad:roadNameCode,2626054500
+대한병원,koad:roadNameCode,2626057000
+동래봉생병원,koad:roadNameCode,2626074000
+동래성모병원,koad:roadNameCode,2626054500
+마더즈병원,koad:roadNameCode,2626051000
+미래병원,koad:roadNameCode,2626074000
+부산힘찬병원,koad:roadNameCode,2626051000
+세계로병원,koad:roadNameCode,2626058000
+우리들병원,koad:roadNameCode,2626055000
+부산고려병원,koad:roadNameCode,2629051000
+부산성소병원,koad:roadNameCode,2629056000
+부산성모병원,koad:roadNameCode,2629060000
+구포부민병원,koad:roadNameCode,2632052000
+구포성심병원,koad:roadNameCode,2632051000
+미래로병원,koad:roadNameCode,2632056000
+베스티안부산병원,koad:roadNameCode,2632054300
+부민병원,koad:roadNameCode,2632055000
+서울아동병원,koad:roadNameCode,2632054200
+한사랑내과병원,koad:roadNameCode,2632056000
+화명일신기독병원,koad:roadNameCode,2632054100
+김앤정해운대병원,koad:roadNameCode,2635055100
+나눔과행복병원,koad:roadNameCode,2635053000
+마리나병원,koad:roadNameCode,2635052500
+바른길병원,koad:roadNameCode,2635057000
+엘리움병원,koad:roadNameCode,2635055200
+해운대백병원,koad:roadNameCode,2635055400
+해운대자명병원,koad:roadNameCode,2635052000
+효성시티병원,koad:roadNameCode,2635065000
+강동병원,koad:roadNameCode,2638057100
+경희병원,koad:roadNameCode,2638059000
+괴정병원,koad:roadNameCode,2638051000
+다대자연병원,koad:roadNameCode,2638059000
+부산본병원,koad:roadNameCode,2638055000
+우리원병원,koad:roadNameCode,2638060100
+장림한서병원,koad:roadNameCode,2638059000
+중앙U병원,koad:roadNameCode,2638062000
+큐병원,koad:roadNameCode,2638062000
+프라임병원,koad:roadNameCode,2638056100
+하나병원,koad:roadNameCode,2638059000
+항플러스병원,koad:roadNameCode,2638056100
+허브휴병원,koad:roadNameCode,2638057200
+동래병원,koad:roadNameCode,2641063500
+마음향기병원,koad:roadNameCode,2641061000
+메드윌병원,koad:roadNameCode,2641069000
+부산마이크로병원,koad:roadNameCode,2641069000
+새우리남산병원,koad:roadNameCode,2641067000
+세웅병원,koad:roadNameCode,2641052000
+아름다운강산병원,koad:roadNameCode,2641055000
+왈레스기념침례병원,koad:roadNameCode,2641067000
+패밀리병원,koad:roadNameCode,2641061000
+행복한외과병원,koad:roadNameCode,2641058000
+갑을녹산병원,koad:roadNameCode,2635056000
+가덕도보건지소,koad:roadNameCode,2644058000
+부산광역시의료원,koad:roadNameCode,2647062000
+BHS한서병원,koad:roadNameCode,2650076000
+부산센텀병원,koad:roadNameCode,2650078000
+수영삼성병원,koad:roadNameCode,2650076000
+자모여성병원,koad:roadNameCode,2650079000
+좋은강안병원,koad:roadNameCode,2650066000
+길정병원,koad:roadNameCode,2653067000
+대남병원,koad:roadNameCode,2653067000
+부산보훈병원,koad:roadNameCode,2653066000
+부영병원,koad:roadNameCode,2653067000
+사상고려병원,koad:roadNameCode,2653060000
+사상중앙병원,koad:roadNameCode,2653058000
+서부산센텀병원,koad:roadNameCode,2653062000
+서울유병원,koad:roadNameCode,2653066100
+영동병원,koad:roadNameCode,2653062000
+우리병원,koad:roadNameCode,2653062000
+좋은삼선병원,koad:roadNameCode,2653066000
+주례자연병원,koad:roadNameCode,2653066100
+큰솔병원,koad:roadNameCode,2653067000
+기장병원,koad:roadNameCode,2671025000
+동남권원자력병원,koad:roadNameCode,2671025300
+메리놀병원,longitude,129.0329882
+새한정형외과의원,longitude,129.0247918
+성신항운외과,longitude,129.0283644
+좋은미래정형외과의원,longitude,129.0274385
+청십자메디칼의원,longitude,129.0286161
+고신의료원,longitude,129.0145128
+동아대학교병원,longitude,129.0180242
+부산대학교병원,longitude,129.0192223
+삼육부산병원,longitude,129.0109763
+봉생병원,longitude,129.0505616
+일신기독병원,longitude,129.0544169
+좋은문화병원,longitude,129.0590486
+영도병원,longitude,129.0405264
+영도참편한요양병원,longitude,129.0687045
+인제요양병원,longitude,129.0400543
+정요양병원,longitude,129.0390717
+태종대요양병원,longitude,129.0802892
+해동병원,longitude,129.0438639
+21세기라파병원,longitude,129.0618755
+동의병원,longitude,129.0759208
+부산백병원,longitude,129.0205711
+부산제2항운병원,longitude,129.0596225
+성가병원,longitude,129.0590295
+세흥병원,longitude,129.063264
+오성병원,longitude,129.0704197
+온종합병원,longitude,129.0498802
+이샘병원,longitude,129.0611556
+참병원,longitude,129.0215888
+청맥병원,longitude,129.059583
+춘해병원,longitude,129.0583806
+한빛병원,longitude,129.058896
+행복한병원,longitude,129.0703224
+휴병원,longitude,129.0495108
+광혜병원,longitude,129.0711453
+대동병원,longitude,129.0802018
+대한병원,longitude,129.0671681
+동래봉생병원,longitude,129.096114
+동래성모병원,longitude,129.0801763
+마더즈병원,longitude,129.0895956
+미래병원,longitude,129.0975624
+부산힘찬병원,longitude,129.0871662
+세계로병원,longitude,129.0647556
+우리들병원,longitude,129.0855768
+부산고려병원,longitude,129.0926053
+부산성소병원,longitude,129.0857857
+부산성모병원,longitude,129.1091865
+구포부민병원,longitude,128.9906602
+구포성심병원,longitude,129.0045732
+미래로병원,longitude,129.0044622
+베스티안부산병원,longitude,129.0086179
+부민병원,longitude,129.011216
+서울아동병원,longitude,129.0143523
+한사랑내과병원,longitude,129.0090884
+화명일신기독병원,longitude,129.0139594
+김앤정해운대병원,longitude,129.1749525
+나눔과행복병원,longitude,129.1689918
+마리나병원,longitude,129.1485267
+바른길병원,longitude,129.121737
+엘리움병원,longitude,129.1757407
+해운대백병원,longitude,129.1821639
+해운대자명병원,longitude,129.1460683
+효성시티병원,longitude,129.1214655
+강동병원,longitude,128.9782779
+경희병원,longitude,128.9768359
+괴정병원,longitude,128.9898925
+다대자연병원,longitude,128.9770795
+부산본병원,longitude,128.9698294
+우리원병원,longitude,128.9708598
+장림한서병원,longitude,128.9769696
+중앙U병원,longitude,128.9990945
+큐병원,longitude,128.9648751
+프라임병원,longitude,128.9658415
+하나병원,longitude,128.9771458
+항플러스병원,longitude,128.9640285
+허브휴병원,longitude,128.9643735
+동래병원,longitude,129.1118906
+마음향기병원,longitude,129.0772946
+메드윌병원,longitude,129.0909591
+부산마이크로병원,longitude,129.0909821
+새우리남산병원,longitude,129.0920919
+세웅병원,longitude,129.104077
+아름다운강산병원,longitude,129.1096748
+왈레스기념침례병원,longitude,129.0935929
+패밀리병원,longitude,129.0856303
+행복한외과병원,longitude,129.0920582
+갑을녹산병원,longitude,128.8533125
+가덕도보건지소,longitude,128.8304293
+부산광역시의료원,longitude,129.0600523
+BHS한서병원,longitude,129.1128819
+부산센텀병원,longitude,129.1145602
+수영삼성병원,longitude,129.1144438
+자모여성병원,longitude,129.111914
+좋은강안병원,longitude,129.1106007
+길정병원,longitude,128.9959072
+대남병원,longitude,128.9958779
+부산보훈병원,longitude,129.0082523
+부영병원,longitude,128.9840247
+사상고려병원,longitude,128.9828434
+사상중앙병원,longitude,128.9782163
+서부산센텀병원,longitude,128.9845543
+서울유병원,longitude,129.0001666
+영동병원,longitude,128.9863209
+우리병원,longitude,128.9824328
+좋은삼선병원,longitude,129.0078086
+주례자연병원,longitude,128.9996321
+큰솔병원,longitude,128.9824424
+기장병원,longitude,129.2167551
+동남권원자력병원,longitude,129.2443307
+메리놀병원,latitude,35.10765061
+새한정형외과의원,latitude,35.10334631
+성신항운외과,latitude,35.10316139
+좋은미래정형외과의원,latitude,35.10284354
+청십자메디칼의원,latitude,35.09715932
+고신의료원,latitude,35.08107807
+동아대학교병원,latitude,35.11954591
+부산대학교병원,latitude,35.10105499
+삼육부산병원,latitude,35.11206562
+봉생병원,latitude,35.13086197
+일신기독병원,latitude,35.13577532
+좋은문화병원,latitude,35.14078971
+영도병원,latitude,35.092242
+영도참편한요양병원,latitude,35.08084937
+인제요양병원,latitude,35.09241324
+정요양병원,latitude,35.09169757
+태종대요양병원,latitude,35.06291664
+해동병원,latitude,35.09193659
+21세기라파병원,latitude,35.16183757
+동의병원,latitude,35.169949
+부산백병원,latitude,35.14645349
+부산제2항운병원,latitude,35.14668023
+성가병원,latitude,35.14206031
+세흥병원,latitude,35.16370654
+오성병원,latitude,35.17133058
+온종합병원,latitude,35.15785097
+이샘병원,latitude,35.14760758
+참병원,latitude,35.15356567
+청맥병원,latitude,35.15667958
+춘해병원,latitude,35.1469497
+한빛병원,latitude,35.14578989
+행복한병원,latitude,35.15042173
+휴병원,latitude,35.15759481
+광혜병원,latitude,35.20696835
+대동병원,latitude,35.20430756
+대한병원,latitude,35.20372902
+동래봉생병원,latitude,35.19691197
+동래성모병원,latitude,35.20326474
+마더즈병원,latitude,35.20041624
+미래병원,latitude,35.19772269
+부산힘찬병원,latitude,35.20147863
+세계로병원,latitude,35.19449847
+우리들병원,latitude,35.22128969
+부산고려병원,latitude,35.13490447
+부산성소병원,latitude,35.13515104
+부산성모병원,latitude,35.11051609
+구포부민병원,latitude,35.19819497
+구포성심병원,latitude,35.20967279
+미래로병원,latitude,35.21130636
+베스티안부산병원,latitude,35.23558347
+부민병원,latitude,35.21196445
+서울아동병원,latitude,35.235978
+한사랑내과병원,latitude,35.21076231
+화명일신기독병원,latitude,35.23168799
+김앤정해운대병원,latitude,35.17196445
+나눔과행복병원,latitude,35.16601157
+마리나병원,latitude,35.15811366
+바른길병원,latitude,35.20590026
+엘리움병원,latitude,35.16879432
+해운대백병원,latitude,35.17325949
+해운대자명병원,latitude,35.16769677
+효성시티병원,latitude,35.18519238
+강동병원,latitude,35.08963283
+경희병원,latitude,35.07353204
+괴정병원,latitude,35.09958166
+다대자연병원,latitude,35.06870058
+부산본병원,latitude,35.10628188
+우리원병원,latitude,35.05592426
+장림한서병원,latitude,35.07412527
+중앙U병원,latitude,35.09059405
+큐병원,latitude,35.10660329
+프라임병원,latitude,35.10588694
+하나병원,latitude,35.07427082
+항플러스병원,latitude,35.10588046
+허브휴병원,latitude,35.09934587
+동래병원,latitude,35.294789
+마음향기병원,latitude,35.23099398
+메드윌병원,latitude,35.25851487
+부산마이크로병원,latitude,35.25170706
+새우리남산병원,latitude,35.26525079
+세웅병원,latitude,35.21443315
+아름다운강산병원,latitude,35.21614069
+왈레스기념침례병원,latitude,35.26726112
+패밀리병원,latitude,35.22257958
+행복한외과병원,latitude,35.23222119
+갑을녹산병원,latitude,35.09056604
+가덕도보건지소,latitude,35.05359803
+부산광역시의료원,latitude,35.18741909
+BHS한서병원,latitude,35.16104695
+부산센텀병원,latitude,35.16625902
+수영삼성병원,latitude,35.16239358
+자모여성병원,latitude,35.15534061
+좋은강안병원,latitude,35.15017251
+길정병원,latitude,35.1315443
+대남병원,latitude,35.1323052
+부산보훈병원,latitude,35.15289186
+부영병원,latitude,35.14121421
+사상고려병원,latitude,35.16991604
+사상중앙병원,latitude,35.1784013
+서부산센텀병원,latitude,35.16121203
+서울유병원,latitude,35.14914287
+영동병원,latitude,35.16068526
+우리병원,latitude,35.16611169
+좋은삼선병원,latitude,35.15015109
+주례자연병원,latitude,35.14955362
+큰솔병원,latitude,35.1407168
+기장병원,latitude,35.23581177
+동남권원자력병원,latitude,35.3218427

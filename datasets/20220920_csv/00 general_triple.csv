@@ -1,0 +1,3 @@
+koad:police_station, is_a,koor:Organization
+koad:hospital, is_a,koor:Organization
+koad:fire_station, is_a,koor:Organization
